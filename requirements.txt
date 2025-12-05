@@ -1,2 +1,4 @@
 numpy
 open3d
+scikit-image
+pyamg
